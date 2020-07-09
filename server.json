@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Vinicius",
+      "id": "1"
+    },
+    {
+      "name": "Carol",
+      "id": "2"
+    },
+    {
+      "name": "Carlos",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Ana"
+    },
+    {
+      "id": "5",
+      "name": "Léo"
+    },
+    {
+      "name": "Natalia",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "name": "Dieny"
+    },
+    {
+      "id": "8",
+      "name": "Luiza"
+    },
+    {
+      "id": "9",
+      "name": "Jorge"
+    },
+    {
+      "id": "10",
+      "name": "Paola"
+    }
+  ]
+}
